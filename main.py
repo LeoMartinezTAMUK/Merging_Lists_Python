@@ -1,4 +1,4 @@
-""" Leo Martinez III, K00475695, Assignment 6 """
+""" Created by: Leo Martinez III, Spring 2022 """
 
 S1 = [3, 9, 14, 18]
 S2 = [2, 5, 6, 15, 56]
